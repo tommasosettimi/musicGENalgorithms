@@ -1,2 +1,2 @@
-# musicGENmiscellaneous
+# musicGENalgorithms
 Generative music

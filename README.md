@@ -1,0 +1,2 @@
+# musicGENmiscellaneous
+Generative music

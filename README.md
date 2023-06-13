@@ -3,7 +3,7 @@
 
 ## Summary
 
-This repository contains various generative music and sound synthesis algorithms in SuperCollider and Python programming environments. There are various folders, specifically: **generative_algorithm_1**, **generative_algorithm_2** More folders will be uploaded in the next few days, likewise the documentation will be expanded. Each folder contains:
+This repository contains various generative music and sound synthesis algorithms in SuperCollider and Python programming environments. There are various folders, specifically: **generative_algorithm_1**, **generative_algorithm_2**. More folders will be uploaded in the next few days, likewise the documentation will be expanded. Each folder contains:
 - The respective SuperCollider (**.scd**) file and a 
 - A small audio excerpt (**.wav**) file generated from the .scd file.
 

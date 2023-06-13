@@ -1,5 +1,5 @@
 # musicGENalgorithms
-**Generative music and sound synthesis algorithms in SuperCollider and Python programming environments.
+Generative music and sound synthesis algorithms in SuperCollider and Python programming environments.
 
 ## Summary
 
